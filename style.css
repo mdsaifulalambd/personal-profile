@@ -10,4 +10,18 @@
     height: 500px;
 }
 .half-width img{
-    width: 100%;
+    width: 100%;}
+
+.projects{
+    width: 30%;
+    float: left;
+    padding: 2px;
+    }
+.projects img {
+    width:100%;
+    }
+.keyword-1{
+    text-align: center;
+    margin-top: 3px;
+    padding: 5px;
+}
