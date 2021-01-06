@@ -1,0 +1,13 @@
+.orange-highlight{
+    color: orange;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    height: 500px;
+}
+.half-width img{
+    width: 100%;
