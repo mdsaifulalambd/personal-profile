@@ -21,6 +21,7 @@ body{
     width: 30%;
     float: left;
     padding: 2px;
+    text-align: center;
     }
 .projects img {
     width:100%;
@@ -30,3 +31,4 @@ body{
     margin-top: 3px;
     padding: 5px;
 }
+
