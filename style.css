@@ -20,7 +20,7 @@ body{
 .projects{
     width: 30%;
     float: left;
-    padding: 2px;
+    padding: 20px;
     text-align: center;
     }
 .projects img {
@@ -30,5 +30,6 @@ body{
     text-align: center;
     margin-top: 3px;
     padding: 5px;
+    width: 100%;
 }
 
