@@ -56,17 +56,18 @@ body{
 .container {
     position: relative;
     text-align: center;
-    color: white;
+    color: black;
   }
 
-.bottom-left {
+.text-left {
     position: absolute;
-    bottom: 8px;
-    left: 16px;
+    bottom: 70px;
+    left: 400px;
+    color: orange
   }
 
-  .bottom-right {
+ .text-right {
     position: absolute;
-    bottom: 8px;
-    right: 16px;
+    bottom: 70px;
+    right: 400px;
   }
